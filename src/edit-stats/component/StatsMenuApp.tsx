@@ -76,10 +76,10 @@ export default function StatsMenuApp({
                 <label className="label">HP</label>
             </div>
             <div className="grid-item">
-                <label className="label">Temp</label>
+                <label className="label">SP</label>
             </div>
             <div className="grid-item">
-                <label className="label">AC</label>
+                <label className="label">MP</label>
             </div>
             <div
                 className={"health-flex stat-background health-background " + mode}
